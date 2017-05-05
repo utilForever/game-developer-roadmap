@@ -8,7 +8,7 @@ If you think that these can be improved in anyway, please do suggest.
 
 ## 🚀 Introduction
 
-![]https://github.com/utilForever/game-developer-roadmap/blob/master/Intro.png)
+![](https://github.com/utilForever/game-developer-roadmap/blob/master/Intro.png)
 
 ## 🎨 Client Roadmap
 
