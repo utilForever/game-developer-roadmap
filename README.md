@@ -27,8 +27,8 @@ If you think any of the roadmaps can be improved, please do open a PR with any u
 ## ☑ TODO
 
 - [X] Add Introduction
-- [ ] Add Frontend Roadmap
-- [ ] Add Backend Roadmap
+- [ ] Add Client Roadmap
+- [ ] Add Server Roadmap
 - [ ] Add relevant resources for each
 
 ## 👬 Contribution
