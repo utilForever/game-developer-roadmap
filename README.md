@@ -14,7 +14,7 @@ If you think that these can be improved in anyway, please do suggest.
 
 ![](https://github.com/utilForever/game-developer-roadmap/blob/master/Client.png)
 
-## 👽 Server Roadmap
+## 👽 Server Roadmap (Thanks to Heo Lyn(@lynheo))
 
 ![](https://github.com/utilForever/game-developer-roadmap/blob/master/Server.png)
 
@@ -28,7 +28,7 @@ If you think any of the roadmaps can be improved, please do open a PR with any u
 
 - [X] Add Introduction
 - [X] Add Client Roadmap
-- [ ] Add Server Roadmap
+- [X] Add Server Roadmap
 - [ ] Add relevant resources for each
 
 ## 👬 Contribution
