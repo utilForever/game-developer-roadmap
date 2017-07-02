@@ -14,7 +14,7 @@ If you think that these can be improved in anyway, please do suggest.
 
 ![](https://github.com/utilForever/game-developer-roadmap/blob/master/Client.png)
 
-## 👽 Server Roadmap (Thanks to Heo Lyn(@lynheo))
+## 👽 Server Roadmap (Thanks to [Heo Lyn](https://github.com/lynheo))
 
 ![](https://github.com/utilForever/game-developer-roadmap/blob/master/Server.png)
 
