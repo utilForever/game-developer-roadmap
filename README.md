@@ -1,4 +1,4 @@
-![Game Developer Roadmap](https://github.com/utilForever/game-developer-roadmap/blob/master/Images/Intro.png)
+![Game Developer Roadmap](https://github.com/utilForever/game-developer-roadmap/blob/master/Images/Title.png)
 
 > Roadmap to becoming a game developer in 2018, inspired by [web-developer-roadmap](https://github.com/kamranahmedse/developer-roadmap).
 
