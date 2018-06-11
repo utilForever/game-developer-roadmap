@@ -11,15 +11,15 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 ## 🚀 Introduction
 
-![](https://github.com/utilForever/game-developer-roadmap/blob/master/Intro.png)
+![](https://github.com/utilForever/game-developer-roadmap/blob/master/Images/Intro.png)
 
 ## 🎨 Client Roadmap
 
-![](https://github.com/utilForever/game-developer-roadmap/blob/master/Client.png)
+![](https://github.com/utilForever/game-developer-roadmap/blob/master/Images/Client.png)
 
 ## 👽 Server Roadmap (Thanks to [Heo Lyn](https://github.com/lynheo))
 
-![](https://github.com/utilForever/game-developer-roadmap/blob/master/Server.png)
+![](https://github.com/utilForever/game-developer-roadmap/blob/master/Images/Server.png)
 
 ## 🚦 Wrap Up
 
