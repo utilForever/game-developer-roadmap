@@ -13,6 +13,10 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 ![](https://github.com/utilForever/game-developer-roadmap/blob/master/Images/Intro.png)
 
+## 🎨 Client Roadmap for 2018 (WIP)
+
+![](https://github.com/utilForever/game-developer-roadmap/blob/master/Images/ClientProgrammer-2018.png)
+
 ## 🎨 Client Roadmap
 
 ![](https://github.com/utilForever/game-developer-roadmap/blob/master/Images/Client.png)
