@@ -37,7 +37,7 @@ If you think any of the roadmaps can be improved, please do open a PR with any u
 
 - [X] Add Introduction
 - [X] Add Client Programmer Roadmap
-- [ ] Add Server Programmer Roadmap
+- [X] Add Server Programmer Roadmap
 - [ ] Add Designer Roadmap
 - [ ] Add Artist Roadmap
 - [X] Add Game Tester (QA) Roadmap
