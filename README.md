@@ -1,49 +1,46 @@
-![Game Developer Roadmap](https://github.com/utilForever/game-developer-roadmap/blob/master/Images/Title.png)
+![Game Developer Roadmap - 2020](./img/title.png)
 
-> Roadmap to becoming a game developer in 2018, inspired by [web-developer-roadmap](https://github.com/kamranahmedse/developer-roadmap).
+> Roadmap to becoming a game developer in 2020, inspired by [web-developer-roadmap](https://github.com/kamranahmedse/developer-roadmap).
 
-Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective.
+Below you find a set of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops. I made these charts for an old professor of mine who wanted something to share with his college students to give them a perspective; sharing them here to help the community.
 
 > Check out my [Github](https://github.com/utilForever) and say "hi" on [Twitter](https://twitter.com/utilForever).
 
-## Disclaimer
-> The purpose of this roadmap is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would better suited for some cases than the other and remember hip and trendy never means best suited for the job
+***
 
-## 🚀 Introduction
+<h3 align="center"><strong>Purpose of these Roadmaps</strong></h3>
 
-![](https://github.com/utilForever/game-developer-roadmap/blob/master/Images/Intro.png)
+> The purpose of these roadmaps is to give you an idea about the landscape and to guide you if you are confused about what to learn next and not to encourage you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy never means best suited for the job.
 
-## 🎨 Client Roadmap for 2018 (WIP)
+<h3 align="center"><strong>Note to Beginners</strong></h3>
 
-![](https://github.com/utilForever/game-developer-roadmap/blob/master/Images/ClientProgrammer-2018.png)
+> These roadmaps cover everything that is there to learn for the paths listed below. Don't feel overwhelmed, you don't need to learn it all in the beginning if you are just getting started. We are working on the beginner versions of these and will release it soon after we are done with the 2020 release of roadmaps.
 
-## 🎨 Client Roadmap
+***
 
-![](https://github.com/utilForever/game-developer-roadmap/blob/master/Images/Client.png)
+If you think that these can be improved in any way, please do suggest.
 
-## 👽 Server Roadmap (Thanks to [Heo Lyn](https://github.com/lynheo))
+## Introduction
 
-![](https://github.com/utilForever/game-developer-roadmap/blob/master/Images/Server.png)
+![Game Developr Roadmap Introduction](./img/intro.png)
 
-## 📑 Game Tester (QA) Roadmap
+## Client Roadmap
 
-![](https://github.com/utilForever/game-developer-roadmap/blob/master/Images/GameTester(QA).png)
+![Client Roadmap](./img/client.png)
+
+## Server Roadmap
+
+![Server Roadmap](./img/server.png)
+
+## QA Roadmap
+
+![QA Roadmap](./img/qa.png)
 
 ## 🚦 Wrap Up
 
 If you think any of the roadmaps can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
 
-## ☑ TODO
-
-- [X] Add Introduction
-- [X] Add Client Programmer Roadmap
-- [X] Add Server Programmer Roadmap
-- [ ] Add Designer Roadmap
-- [ ] Add Artist Roadmap
-- [X] Add Game Tester (QA) Roadmap
-- [ ] Add relevant resources for each
-
-## 👬 Contribution
+## 🙌 Contribution
 
 The roadmaps are built using [Balsamiq](https://balsamiq.com/products/mockups/). Project file can be found at `/project-files` directory. To modify any of the roadmaps, open Balsamiq, click **Project > Import > Mockup JSON**, it will open the roadmap for you, update it, upload and update the images in readme and create a PR.
 
@@ -58,7 +55,7 @@ The roadmaps are built using [Balsamiq](https://balsamiq.com/products/mockups/).
 
 The class is licensed under the [MIT License](http://opensource.org/licenses/MIT):
 
-Copyright &copy; 2018 [Chris Ohk](http://www.github.com/utilForever).
+Copyright &copy; 2020 [Chris Ohk](http://www.github.com/utilForever).
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
