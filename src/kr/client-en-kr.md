@@ -27,7 +27,7 @@
     - Game Engines - 게임 엔진
     - Programming Languages - 프로그래밍 언어
 
-- Getting Deeper - 심화과정
+- Getting Deeper - 심화 과정
 
     - Computer Theory - 컴퓨터 이론
         - Computer Architecture - 컴퓨터 구조
@@ -73,6 +73,7 @@
 ```
 Waiting for review
 
+Possibilities - 가능성?
 Pick any! - 마음대로 고르세요!? / 도전해보세요!?
 Execution Management - 실행 관리?
 Content Creation - 컨텐츠 생성?
