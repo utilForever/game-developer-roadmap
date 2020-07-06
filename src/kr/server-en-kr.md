@@ -12,28 +12,29 @@
 - Learn the Basics - 기본 과정
 
 - TCP
-    - Segment Structure - 
-    - Operation #1 -
-        - Resource Usage -
-        - Data Transfer - 
+    - Segment Structure - 세그먼트 구조
+    - Connection Establishment/Termination - 연결 생성/종료
+    - Operation #1 - 작동? 연산? #1
+        - Resource Usage - 자원 사용법
+        - Data Transfer - 자료 전송
             - Flow Control - 
             - Error Detection - 
             - Congestion Control - 
             - Reliable Transmission - 
         
-        - Operation #2 -
-            - Maximum Segment Size - 
-            - Window Scaling - 
-            - Timestamp - 
-            - Out-of-Band Data - 
-            - Selective Acknowledgement - 
+    - Operation #2 -
+        - Maximum Segment Size - 
+        - Window Scaling - 
+        - Timestamp - 
+        - Out-of-Band Data - 
+        - Selective Acknowledgement - 
 
-        - Checksum - 
+    - Checksum - 
 
-        - Vulnerability - 
-            - Denial of Service - 
-            - Connection Hijacking - 
-            - Veto - 
+    - Vulnerability - 
+        - Denial of Service - 
+        - Connection Hijacking - 
+        - Veto - 
 
 - UDP
     - Packet Structure - 
