@@ -1,0 +1,3744 @@
+{
+    "mockup": {
+        "controls": {
+            "control": [
+                {
+                    "ID": "0",
+                    "typeID": "Label",
+                    "zOrder": "0",
+                    "measuredW": "160",
+                    "measuredH": "40",
+                    "x": "586",
+                    "y": "313",
+                    "properties": {
+                        "bold": "true",
+                        "size": "32",
+                        "text": "클라이언트"
+                    }
+                },
+                {
+                    "ID": "1",
+                    "typeID": "Arrow",
+                    "zOrder": "1",
+                    "w": "35",
+                    "h": "70",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "628",
+                    "y": "238",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.4589494163424127,
+                            "y": 0.1931906614785994
+                        },
+                        "p2": {
+                            "x": 34,
+                            "y": 70
+                        },
+                        "rightArrow": "false",
+                        "stroke": "dotted"
+                    }
+                },
+                {
+                    "ID": "2",
+                    "typeID": "Arrow",
+                    "zOrder": "2",
+                    "w": "34",
+                    "h": "73",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "628",
+                    "y": "354",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 34,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.46391752577319595,
+                            "y": -0.10309278350515452
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 73
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "3",
+                    "typeID": "Label",
+                    "zOrder": "3",
+                    "measuredW": "78",
+                    "measuredH": "26",
+                    "x": "587",
+                    "y": "436",
+                    "properties": {
+                        "bold": "true",
+                        "size": "18",
+                        "text": "기본 과정"
+                    }
+                },
+                {
+                    "ID": "4",
+                    "typeID": "Arrow",
+                    "zOrder": "4",
+                    "w": "18",
+                    "h": "98",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "630",
+                    "y": "469",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 4,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.47967479674796754,
+                            "y": 0.15447154471544713
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 97
+                        }
+                    }
+                },
+                {
+                    "ID": "5",
+                    "typeID": "Arrow",
+                    "zOrder": "5",
+                    "w": "105",
+                    "h": "87",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "522",
+                    "y": "491",
+                    "properties": {
+                        "color": "2848996",
+                        "p0": {
+                            "x": 0,
+                            "y": 4
+                        },
+                        "p1": {
+                            "x": 0.36693272519954395,
+                            "y": 0.1931584948688711
+                        },
+                        "p2": {
+                            "x": 104,
+                            "y": 86
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "6",
+                    "typeID": "Arrow",
+                    "zOrder": "6",
+                    "w": "19",
+                    "h": "146",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "618",
+                    "y": "585",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 15,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.5188679245283017,
+                            "y": -0.1132075471698114
+                        },
+                        "p2": {
+                            "x": 18,
+                            "y": 145
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "7",
+                    "typeID": "Label",
+                    "zOrder": "7",
+                    "w": "81",
+                    "measuredW": "78",
+                    "measuredH": "26",
+                    "x": "620",
+                    "y": "916",
+                    "properties": {
+                        "bold": "true",
+                        "size": "18",
+                        "text": "심화 과정"
+                    }
+                },
+                {
+                    "ID": "8",
+                    "typeID": "Arrow",
+                    "zOrder": "8",
+                    "w": "21",
+                    "h": "72",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "655",
+                    "y": "945",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 18,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.4593818672454052,
+                            "y": 0.1252820900112502
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 70.98591549295774
+                        }
+                    }
+                },
+                {
+                    "ID": "9",
+                    "typeID": "Arrow",
+                    "zOrder": "9",
+                    "w": "168",
+                    "h": "55",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "660",
+                    "y": "968",
+                    "properties": {
+                        "color": "2848996",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 167,
+                            "y": 3
+                        },
+                        "p1": {
+                            "x": 0.4920301738274845,
+                            "y": -0.11433256805510005
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 54
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "10",
+                    "typeID": "Arrow",
+                    "zOrder": "10",
+                    "w": "147",
+                    "h": "19",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "508",
+                    "y": "1000",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 146,
+                            "y": 18
+                        },
+                        "p1": {
+                            "x": 0.49980984596946293,
+                            "y": -0.09745143953685839
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 12
+                        }
+                    }
+                },
+                {
+                    "ID": "11",
+                    "typeID": "Arrow",
+                    "zOrder": "11",
+                    "w": "37",
+                    "h": "303",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "624",
+                    "y": "1024",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 33,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.4885713623052959,
+                            "y": 0.04938508096555647
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 302
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "12",
+                    "typeID": "Icon",
+                    "zOrder": "12",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "625",
+                    "y": "1926",
+                    "properties": {
+                        "color": "2848996",
+                        "icon": {
+                            "ID": "flag-checkered",
+                            "size": "large"
+                        }
+                    }
+                },
+                {
+                    "ID": "13",
+                    "typeID": "Label",
+                    "zOrder": "13",
+                    "measuredW": "78",
+                    "measuredH": "26",
+                    "x": "607",
+                    "y": "1974",
+                    "properties": {
+                        "bold": "true",
+                        "color": "2848996",
+                        "size": "18",
+                        "text": "개발 시작"
+                    }
+                },
+                {
+                    "ID": "14",
+                    "typeID": "Icon",
+                    "zOrder": "14",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "609",
+                    "y": "547",
+                    "properties": {
+                        "color": "2848996",
+                        "icon": {
+                            "ID": "circle",
+                            "size": "large"
+                        }
+                    }
+                },
+                {
+                    "ID": "15",
+                    "typeID": "Icon",
+                    "zOrder": "15",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "631",
+                    "y": "990",
+                    "properties": {
+                        "color": "2848996",
+                        "icon": {
+                            "ID": "circle",
+                            "size": "large"
+                        }
+                    }
+                },
+                {
+                    "ID": "16",
+                    "typeID": "Label",
+                    "zOrder": "16",
+                    "measuredW": "34",
+                    "measuredH": "25",
+                    "x": "846",
+                    "y": "244",
+                    "properties": {
+                        "bold": "true",
+                        "size": "17",
+                        "text": "범례"
+                    }
+                },
+                {
+                    "ID": "17",
+                    "typeID": "TextInput",
+                    "zOrder": "17",
+                    "w": "240",
+                    "measuredW": "114",
+                    "measuredH": "32",
+                    "x": "846",
+                    "y": "281",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "개인적 추천!"
+                    }
+                },
+                {
+                    "ID": "18",
+                    "typeID": "TextInput",
+                    "zOrder": "18",
+                    "w": "240",
+                    "measuredW": "68",
+                    "measuredH": "32",
+                    "x": "846",
+                    "y": "317",
+                    "properties": {
+                        "align": "center",
+                        "color": "15658734",
+                        "size": "18",
+                        "text": "가능성"
+                    }
+                },
+                {
+                    "ID": "19",
+                    "typeID": "TextInput",
+                    "zOrder": "19",
+                    "w": "240",
+                    "measuredW": "168",
+                    "measuredH": "32",
+                    "x": "846",
+                    "y": "353",
+                    "properties": {
+                        "align": "center",
+                        "color": "16770457",
+                        "size": "18",
+                        "text": "마음대로 고르세요!"
+                    }
+                },
+                {
+                    "ID": "20",
+                    "typeID": "TextInput",
+                    "zOrder": "20",
+                    "w": "185",
+                    "measuredW": "92",
+                    "measuredH": "32",
+                    "x": "332",
+                    "y": "478",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "게임 수학"
+                    }
+                },
+                {
+                    "ID": "21",
+                    "typeID": "TextInput",
+                    "zOrder": "21",
+                    "w": "154",
+                    "measuredW": "104",
+                    "measuredH": "32",
+                    "x": "403",
+                    "y": "353",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "선형대수학"
+                    }
+                },
+                {
+                    "ID": "22",
+                    "typeID": "Arrow",
+                    "zOrder": "22",
+                    "w": "31",
+                    "h": "51",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "431",
+                    "y": "513",
+                    "properties": {
+                        "color": "2848996",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.46176470588235274,
+                            "y": 0.1029411764705883
+                        },
+                        "p2": {
+                            "x": 30,
+                            "y": 50
+                        }
+                    }
+                },
+                {
+                    "ID": "23",
+                    "typeID": "TextInput",
+                    "zOrder": "23",
+                    "w": "235",
+                    "measuredW": "110",
+                    "measuredH": "32",
+                    "x": "345",
+                    "y": "567",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "확률과 통계"
+                    }
+                },
+                {
+                    "ID": "24",
+                    "typeID": "Arrow",
+                    "zOrder": "24",
+                    "w": "10",
+                    "h": "87",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "462",
+                    "y": "388",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 4,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.4386955963538324,
+                            "y": 0.08627551675439722
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 86
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "25",
+                    "typeID": "Arrow",
+                    "zOrder": "25",
+                    "w": "36",
+                    "h": "61",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "364",
+                    "y": "413",
+                    "properties": {
+                        "color": "2848996",
+                        "p0": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.5233160621761657,
+                            "y": 0.011398963730569948
+                        },
+                        "p2": {
+                            "x": 35,
+                            "y": 60
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "26",
+                    "typeID": "TextInput",
+                    "zOrder": "26",
+                    "w": "110",
+                    "measuredW": "86",
+                    "measuredH": "32",
+                    "x": "273",
+                    "y": "375",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "미적분학"
+                    }
+                },
+                {
+                    "ID": "27",
+                    "typeID": "Arrow",
+                    "zOrder": "27",
+                    "w": "143",
+                    "h": "33",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "643",
+                    "y": "548",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 142,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.44464799790630744,
+                            "y": 0.1456861205618075
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 23
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "28",
+                    "typeID": "TextInput",
+                    "zOrder": "28",
+                    "w": "156",
+                    "measuredW": "110",
+                    "measuredH": "32",
+                    "x": "743",
+                    "y": "510",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "게임 물리학"
+                    }
+                },
+                {
+                    "ID": "29",
+                    "typeID": "Arrow",
+                    "zOrder": "29",
+                    "w": "101",
+                    "h": "51",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "818",
+                    "y": "455",
+                    "properties": {
+                        "color": "2848996",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 100,
+                            "y": 1
+                        },
+                        "p1": {
+                            "x": 0.7744609065571366,
+                            "y": -0.3048995159160921
+                        },
+                        "p2": {
+                            "x": 8,
+                            "y": 50
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "30",
+                    "typeID": "TextInput",
+                    "zOrder": "30",
+                    "w": "197",
+                    "measuredW": "86",
+                    "measuredH": "32",
+                    "x": "921",
+                    "y": "440",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "고전역학"
+                    }
+                },
+                {
+                    "ID": "31",
+                    "typeID": "Arrow",
+                    "zOrder": "31",
+                    "w": "123",
+                    "h": "15",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "902",
+                    "y": "518",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 122,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.5332956472583381,
+                            "y": 0.07167891464104012
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 10
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "32",
+                    "typeID": "Arrow",
+                    "zOrder": "32",
+                    "w": "155",
+                    "h": "38",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "852",
+                    "y": "545",
+                    "properties": {
+                        "color": "2848996",
+                        "p0": {
+                            "x": 154,
+                            "y": 37
+                        },
+                        "p1": {
+                            "x": 0.533295647258338,
+                            "y": 0.07167891464104008
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "33",
+                    "typeID": "TextInput",
+                    "zOrder": "33",
+                    "w": "156",
+                    "measuredW": "86",
+                    "measuredH": "32",
+                    "x": "1010",
+                    "y": "567",
+                    "properties": {
+                        "align": "center",
+                        "color": "16770457",
+                        "size": "18",
+                        "text": "유체역학"
+                    }
+                },
+                {
+                    "ID": "34",
+                    "typeID": "TextInput",
+                    "zOrder": "34",
+                    "w": "89",
+                    "measuredW": "50",
+                    "measuredH": "32",
+                    "x": "1029",
+                    "y": "502",
+                    "properties": {
+                        "align": "center",
+                        "color": "15658734",
+                        "size": "18",
+                        "text": "광학"
+                    }
+                },
+                {
+                    "ID": "35",
+                    "typeID": "Icon",
+                    "zOrder": "35",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "609",
+                    "y": "706",
+                    "properties": {
+                        "color": "2848996",
+                        "icon": {
+                            "ID": "circle",
+                            "size": "large"
+                        }
+                    }
+                },
+                {
+                    "ID": "36",
+                    "typeID": "Arrow",
+                    "zOrder": "36",
+                    "w": "134",
+                    "h": "58",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "643",
+                    "y": "674",
+                    "properties": {
+                        "color": "2848996",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 133,
+                            "y": 34
+                        },
+                        "p1": {
+                            "x": 0.4352783757053929,
+                            "y": -0.3184594798999359
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 57
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "37",
+                    "typeID": "TextInput",
+                    "zOrder": "37",
+                    "w": "242",
+                    "measuredW": "146",
+                    "measuredH": "32",
+                    "x": "759",
+                    "y": "714",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "프로그래밍 언어"
+                    }
+                },
+                {
+                    "ID": "38",
+                    "typeID": "Arrow",
+                    "zOrder": "38",
+                    "w": "151",
+                    "h": "37",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "471",
+                    "y": "732",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 150,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.521161261056929,
+                            "y": 0.22553867090043095
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 5
+                        }
+                    }
+                },
+                {
+                    "ID": "39",
+                    "typeID": "TextInput",
+                    "zOrder": "39",
+                    "w": "156",
+                    "measuredW": "92",
+                    "measuredH": "32",
+                    "x": "310",
+                    "y": "720",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "게임 엔진"
+                    }
+                },
+                {
+                    "ID": "40",
+                    "typeID": "Arrow",
+                    "zOrder": "40",
+                    "w": "39",
+                    "h": "55",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "835",
+                    "y": "659",
+                    "properties": {
+                        "color": "2848996",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 38,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.5561489757585238,
+                            "y": -0.15769977694435539
+                        },
+                        "p2": {
+                            "x": 1,
+                            "y": 54
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "41",
+                    "typeID": "TextInput",
+                    "zOrder": "41",
+                    "w": "103",
+                    "measuredW": "72",
+                    "measuredH": "32",
+                    "x": "876",
+                    "y": "642",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "C/C++"
+                    }
+                },
+                {
+                    "ID": "42",
+                    "typeID": "Arrow",
+                    "zOrder": "42",
+                    "w": "61",
+                    "h": "17",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "1005",
+                    "y": "714",
+                    "properties": {
+                        "color": "2848996",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 60,
+                            "y": 1
+                        },
+                        "p1": {
+                            "x": 0.5029304916444661,
+                            "y": -0.07720997820295482
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 16
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "43",
+                    "typeID": "TextInput",
+                    "zOrder": "43",
+                    "w": "65",
+                    "measuredW": "39",
+                    "measuredH": "32",
+                    "x": "1069",
+                    "y": "699",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "C#"
+                    }
+                },
+                {
+                    "ID": "44",
+                    "typeID": "Arrow",
+                    "zOrder": "44",
+                    "w": "53",
+                    "h": "17",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "981",
+                    "y": "643",
+                    "properties": {
+                        "color": "2848996",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 52,
+                            "y": 3
+                        },
+                        "p1": {
+                            "x": 0.5561489757585238,
+                            "y": -0.15769977694435536
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 16
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "45",
+                    "typeID": "TextInput",
+                    "zOrder": "45",
+                    "w": "103",
+                    "measuredW": "92",
+                    "measuredH": "32",
+                    "x": "1037",
+                    "y": "632",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "Assembly"
+                    }
+                },
+                {
+                    "ID": "46",
+                    "typeID": "TextInput",
+                    "zOrder": "46",
+                    "w": "92",
+                    "measuredW": "70",
+                    "measuredH": "32",
+                    "x": "881",
+                    "y": "812",
+                    "properties": {
+                        "align": "center",
+                        "color": "15658734",
+                        "size": "18",
+                        "text": "Python"
+                    }
+                },
+                {
+                    "ID": "47",
+                    "typeID": "TextInput",
+                    "zOrder": "47",
+                    "w": "68",
+                    "measuredW": "45",
+                    "measuredH": "32",
+                    "x": "1018",
+                    "y": "785",
+                    "properties": {
+                        "align": "center",
+                        "color": "15658734",
+                        "size": "18",
+                        "text": "Lua"
+                    }
+                },
+                {
+                    "ID": "48",
+                    "typeID": "Arrow",
+                    "zOrder": "48",
+                    "w": "52",
+                    "h": "59",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "867",
+                    "y": "750",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "p0": {
+                            "x": 51,
+                            "y": 58
+                        },
+                        "p1": {
+                            "x": 0.48566638725901096,
+                            "y": -0.13394803017602683
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "49",
+                    "typeID": "Arrow",
+                    "zOrder": "49",
+                    "w": "95",
+                    "h": "55",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "919",
+                    "y": "750",
+                    "properties": {
+                        "color": "2848996",
+                        "p0": {
+                            "x": 94,
+                            "y": 54
+                        },
+                        "p1": {
+                            "x": 0.47702518720217835,
+                            "y": 0.0399931926480599
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "50",
+                    "typeID": "Arrow",
+                    "zOrder": "50",
+                    "w": "47",
+                    "h": "15",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "280",
+                    "y": "699",
+                    "properties": {
+                        "color": "2848996",
+                        "p0": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.6244343891402715,
+                            "y": 0.11312217194570137
+                        },
+                        "p2": {
+                            "x": 46,
+                            "y": 14
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "51",
+                    "typeID": "TextInput",
+                    "zOrder": "51",
+                    "w": "93",
+                    "measuredW": "68",
+                    "measuredH": "32",
+                    "x": "181",
+                    "y": "679",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "Unreal"
+                    }
+                },
+                {
+                    "ID": "52",
+                    "typeID": "TextInput",
+                    "zOrder": "52",
+                    "w": "73",
+                    "measuredW": "57",
+                    "measuredH": "32",
+                    "x": "164",
+                    "y": "746",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "Unity"
+                    }
+                },
+                {
+                    "ID": "53",
+                    "typeID": "Arrow",
+                    "zOrder": "53",
+                    "w": "65",
+                    "h": "27",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "242",
+                    "y": "736",
+                    "properties": {
+                        "color": "2848996",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 0,
+                            "y": 26
+                        },
+                        "p1": {
+                            "x": 0.5293378038558256,
+                            "y": -0.04316848281642917
+                        },
+                        "p2": {
+                            "x": 64,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "54",
+                    "typeID": "Arrow",
+                    "zOrder": "54",
+                    "w": "30",
+                    "h": "53",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "412",
+                    "y": "663",
+                    "properties": {
+                        "color": "2848996",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 29,
+                            "y": 16
+                        },
+                        "p1": {
+                            "x": 0.04245283018867921,
+                            "y": -0.7264150943396218
+                        },
+                        "p2": {
+                            "x": 9,
+                            "y": 52
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "55",
+                    "typeID": "TextInput",
+                    "zOrder": "55",
+                    "w": "109",
+                    "measuredW": "104",
+                    "measuredH": "32",
+                    "x": "446",
+                    "y": "663",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "Cocos2d-x"
+                    }
+                },
+                {
+                    "ID": "56",
+                    "typeID": "Arrow",
+                    "zOrder": "56",
+                    "w": "32",
+                    "h": "164",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "630",
+                    "y": "746",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 3,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.508700199676714,
+                            "y": -0.07949034895882856
+                        },
+                        "p2": {
+                            "x": 31,
+                            "y": 163
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "57",
+                    "typeID": "Arrow",
+                    "zOrder": "57",
+                    "w": "72",
+                    "h": "71",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "273",
+                    "y": "758",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 71,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.4833401892225421,
+                            "y": 0.24105306458247622
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 70
+                        }
+                    }
+                },
+                {
+                    "ID": "58",
+                    "typeID": "TextInput",
+                    "zOrder": "58",
+                    "w": "125",
+                    "measuredW": "114",
+                    "measuredH": "32",
+                    "x": "144",
+                    "y": "812",
+                    "properties": {
+                        "align": "center",
+                        "color": "16770457",
+                        "size": "18",
+                        "text": "GameMaker"
+                    }
+                },
+                {
+                    "ID": "59",
+                    "typeID": "Arrow",
+                    "zOrder": "59",
+                    "w": "20",
+                    "h": "95",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "355",
+                    "y": "758",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "0",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 0,
+                            "y": 94
+                        },
+                        "p1": {
+                            "x": 0.5889502762430939,
+                            "y": -0.00994475138121545
+                        },
+                        "p2": {
+                            "x": 19,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "60",
+                    "typeID": "TextInput",
+                    "zOrder": "60",
+                    "w": "104",
+                    "measuredW": "96",
+                    "measuredH": "32",
+                    "x": "285",
+                    "y": "858",
+                    "properties": {
+                        "align": "center",
+                        "color": "16770457",
+                        "size": "18",
+                        "text": "Construct"
+                    }
+                },
+                {
+                    "ID": "61",
+                    "typeID": "Arrow",
+                    "zOrder": "61",
+                    "w": "42",
+                    "h": "51",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "432",
+                    "y": "758",
+                    "properties": {
+                        "color": "2848996",
+                        "p0": {
+                            "x": 41,
+                            "y": 50
+                        },
+                        "p1": {
+                            "x": 0.47702518720217835,
+                            "y": 0.03999319264805988
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "62",
+                    "typeID": "TextInput",
+                    "zOrder": "62",
+                    "w": "115",
+                    "measuredW": "110",
+                    "measuredH": "32",
+                    "x": "478",
+                    "y": "793",
+                    "properties": {
+                        "align": "center",
+                        "color": "16770457",
+                        "size": "18",
+                        "text": "GameSalad"
+                    }
+                },
+                {
+                    "ID": "63",
+                    "typeID": "Arrow",
+                    "zOrder": "63",
+                    "w": "32",
+                    "h": "84",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "403",
+                    "y": "758",
+                    "properties": {
+                        "color": "2848996",
+                        "p0": {
+                            "x": 31,
+                            "y": 83
+                        },
+                        "p1": {
+                            "x": 0.47702518720217824,
+                            "y": 0.03999319264805989
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "64",
+                    "typeID": "TextInput",
+                    "zOrder": "64",
+                    "w": "104",
+                    "measuredW": "99",
+                    "measuredH": "32",
+                    "x": "413",
+                    "y": "845",
+                    "properties": {
+                        "align": "center",
+                        "color": "15658734",
+                        "size": "18",
+                        "text": "CryEngine"
+                    }
+                },
+                {
+                    "ID": "65",
+                    "typeID": "Arrow",
+                    "zOrder": "65",
+                    "w": "38",
+                    "h": "41",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "814",
+                    "y": "751",
+                    "properties": {
+                        "color": "2848996",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 0,
+                            "y": 40
+                        },
+                        "p1": {
+                            "x": 0.5854132901134518,
+                            "y": -0.6298217179902754
+                        },
+                        "p2": {
+                            "x": 19,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "66",
+                    "typeID": "TextInput",
+                    "zOrder": "66",
+                    "w": "92",
+                    "measuredW": "73",
+                    "measuredH": "32",
+                    "x": "716",
+                    "y": "777",
+                    "properties": {
+                        "align": "center",
+                        "color": "15658734",
+                        "size": "18",
+                        "text": "HTML5"
+                    }
+                },
+                {
+                    "ID": "67",
+                    "typeID": "TextInput",
+                    "zOrder": "67",
+                    "w": "141",
+                    "measuredW": "121",
+                    "measuredH": "32",
+                    "x": "832",
+                    "y": "955",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "그래픽스 API"
+                    }
+                },
+                {
+                    "ID": "68",
+                    "typeID": "TextInput",
+                    "zOrder": "68",
+                    "w": "204",
+                    "measuredW": "86",
+                    "measuredH": "32",
+                    "x": "94",
+                    "y": "424",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "이산수학"
+                    }
+                },
+                {
+                    "ID": "69",
+                    "typeID": "Arrow",
+                    "zOrder": "69",
+                    "w": "55",
+                    "h": "33",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "303",
+                    "y": "441",
+                    "properties": {
+                        "color": "2848996",
+                        "p0": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.5711711711711713,
+                            "y": 0.1729729729729731
+                        },
+                        "p2": {
+                            "x": 54,
+                            "y": 32
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "70",
+                    "typeID": "TextInput",
+                    "zOrder": "70",
+                    "w": "233",
+                    "measuredW": "86",
+                    "measuredH": "32",
+                    "x": "40",
+                    "y": "491",
+                    "properties": {
+                        "align": "center",
+                        "color": "15658734",
+                        "size": "18",
+                        "text": "공학수학"
+                    }
+                },
+                {
+                    "ID": "71",
+                    "typeID": "TextInput",
+                    "zOrder": "71",
+                    "w": "178",
+                    "measuredW": "86",
+                    "measuredH": "32",
+                    "x": "132",
+                    "y": "548",
+                    "properties": {
+                        "align": "center",
+                        "color": "16770457",
+                        "size": "18",
+                        "text": "수치해석"
+                    }
+                },
+                {
+                    "ID": "72",
+                    "typeID": "Arrow",
+                    "zOrder": "72",
+                    "w": "51",
+                    "h": "16",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "277",
+                    "y": "492",
+                    "properties": {
+                        "color": "2848996",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 0,
+                            "y": 15
+                        },
+                        "p1": {
+                            "x": 0.6201834862385321,
+                            "y": -0.06605504587155964
+                        },
+                        "p2": {
+                            "x": 50,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "73",
+                    "typeID": "Arrow",
+                    "zOrder": "73",
+                    "w": "60",
+                    "h": "51",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "315",
+                    "y": "514",
+                    "properties": {
+                        "color": "2848996",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 0,
+                            "y": 50
+                        },
+                        "p1": {
+                            "x": 0.620183486238532,
+                            "y": -0.0660550458715596
+                        },
+                        "p2": {
+                            "x": 59,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "74",
+                    "typeID": "TextInput",
+                    "zOrder": "74",
+                    "w": "86",
+                    "measuredW": "75",
+                    "measuredH": "32",
+                    "x": "818",
+                    "y": "877",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "DirectX"
+                    }
+                },
+                {
+                    "ID": "75",
+                    "typeID": "TextInput",
+                    "zOrder": "75",
+                    "w": "86",
+                    "measuredW": "83",
+                    "measuredH": "32",
+                    "x": "943",
+                    "y": "861",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "OpenGL"
+                    }
+                },
+                {
+                    "ID": "76",
+                    "typeID": "TextInput",
+                    "zOrder": "76",
+                    "w": "86",
+                    "measuredW": "69",
+                    "measuredH": "32",
+                    "x": "1034",
+                    "y": "926",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "Vulkan"
+                    }
+                },
+                {
+                    "ID": "77",
+                    "typeID": "TextInput",
+                    "zOrder": "77",
+                    "w": "92",
+                    "measuredW": "74",
+                    "measuredH": "32",
+                    "x": "981",
+                    "y": "1023",
+                    "properties": {
+                        "align": "center",
+                        "color": "15658734",
+                        "size": "18",
+                        "text": "WebGL"
+                    }
+                },
+                {
+                    "ID": "78",
+                    "typeID": "TextInput",
+                    "zOrder": "78",
+                    "w": "92",
+                    "measuredW": "60",
+                    "measuredH": "32",
+                    "x": "808",
+                    "y": "1046",
+                    "properties": {
+                        "align": "center",
+                        "color": "15658734",
+                        "size": "18",
+                        "text": "Metal"
+                    }
+                },
+                {
+                    "ID": "79",
+                    "typeID": "Arrow",
+                    "zOrder": "79",
+                    "w": "16",
+                    "h": "38",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "865",
+                    "y": "913",
+                    "properties": {
+                        "color": "2848996",
+                        "p0": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.6404494382022472,
+                            "y": 0.10861423220973786
+                        },
+                        "p2": {
+                            "x": 15,
+                            "y": 37
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "80",
+                    "typeID": "Arrow",
+                    "zOrder": "80",
+                    "w": "41",
+                    "h": "54",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "947",
+                    "y": "898",
+                    "properties": {
+                        "color": "2848996",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 40,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.5942263279445728,
+                            "y": -0.16651270207852192
+                        },
+                        "p2": {
+                            "x": 1,
+                            "y": 53
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "81",
+                    "typeID": "Arrow",
+                    "zOrder": "81",
+                    "w": "52",
+                    "h": "28",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "977",
+                    "y": "944",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 51,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.46285018270401934,
+                            "y": 0.040803897685749074
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 27
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "82",
+                    "typeID": "Arrow",
+                    "zOrder": "82",
+                    "w": "45",
+                    "h": "48",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "933",
+                    "y": "992",
+                    "properties": {
+                        "color": "2848996",
+                        "p0": {
+                            "x": 44,
+                            "y": 47
+                        },
+                        "p1": {
+                            "x": 0.46285018270401934,
+                            "y": 0.04080389768574908
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "83",
+                    "typeID": "Arrow",
+                    "zOrder": "83",
+                    "w": "40",
+                    "h": "50",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "857",
+                    "y": "991",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 0,
+                            "y": 49
+                        },
+                        "p1": {
+                            "x": 0.48775348959705034,
+                            "y": 0.08691071898867525
+                        },
+                        "p2": {
+                            "x": 39,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "84",
+                    "typeID": "Arrow",
+                    "zOrder": "84",
+                    "w": "35",
+                    "h": "23",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "778",
+                    "y": "866",
+                    "properties": {
+                        "color": "2848996",
+                        "p0": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.6404494382022471,
+                            "y": 0.10861423220973779
+                        },
+                        "p2": {
+                            "x": 34,
+                            "y": 22
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "85",
+                    "typeID": "TextInput",
+                    "zOrder": "85",
+                    "w": "70",
+                    "measuredW": "59",
+                    "measuredH": "32",
+                    "x": "702",
+                    "y": "845",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "HLSL"
+                    }
+                },
+                {
+                    "ID": "86",
+                    "typeID": "TextInput",
+                    "zOrder": "86",
+                    "w": "70",
+                    "measuredW": "61",
+                    "measuredH": "32",
+                    "x": "1080",
+                    "y": "850",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "GLSL"
+                    }
+                },
+                {
+                    "ID": "87",
+                    "typeID": "Arrow",
+                    "zOrder": "87",
+                    "w": "45",
+                    "h": "16",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "1033",
+                    "y": "862",
+                    "properties": {
+                        "color": "2848996",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 44,
+                            "y": 2
+                        },
+                        "p1": {
+                            "x": 0.5942263279445729,
+                            "y": -0.16651270207852187
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 15
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "88",
+                    "typeID": "Arrow",
+                    "zOrder": "88",
+                    "w": "38",
+                    "h": "32",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "1069",
+                    "y": "963",
+                    "properties": {
+                        "color": "2848996",
+                        "p0": {
+                            "x": 37,
+                            "y": 31
+                        },
+                        "p1": {
+                            "x": 0.5300429184549356,
+                            "y": 0.17381974248927037
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "89",
+                    "typeID": "TextInput",
+                    "zOrder": "89",
+                    "w": "80",
+                    "measuredW": "75",
+                    "measuredH": "32",
+                    "x": "1110",
+                    "y": "979",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "SPIR-V"
+                    }
+                },
+                {
+                    "ID": "90",
+                    "typeID": "TextInput",
+                    "zOrder": "90",
+                    "w": "172",
+                    "measuredW": "110",
+                    "measuredH": "32",
+                    "x": "332",
+                    "y": "998",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "컴퓨터 이론"
+                    }
+                },
+                {
+                    "ID": "91",
+                    "typeID": "TextInput",
+                    "zOrder": "91",
+                    "w": "172",
+                    "measuredW": "86",
+                    "measuredH": "32",
+                    "x": "85",
+                    "y": "979",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "운영체제"
+                    }
+                },
+                {
+                    "ID": "92",
+                    "typeID": "Arrow",
+                    "zOrder": "92",
+                    "w": "69",
+                    "h": "20",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "261",
+                    "y": "995",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 68,
+                            "y": 19
+                        },
+                        "p1": {
+                            "x": 0.499809845969463,
+                            "y": -0.09745143953685839
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 1
+                        }
+                    }
+                },
+                {
+                    "ID": "93",
+                    "typeID": "Arrow",
+                    "zOrder": "93",
+                    "w": "39",
+                    "h": "66",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "454",
+                    "y": "928",
+                    "properties": {
+                        "color": "2848996",
+                        "p0": {
+                            "x": 0,
+                            "y": 1
+                        },
+                        "p1": {
+                            "x": 0.40619344460084444,
+                            "y": 0.41886185401166287
+                        },
+                        "p2": {
+                            "x": 24,
+                            "y": 65
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "94",
+                    "typeID": "TextInput",
+                    "zOrder": "94",
+                    "w": "209",
+                    "measuredW": "110",
+                    "measuredH": "32",
+                    "x": "241",
+                    "y": "914",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "컴퓨터 구조"
+                    }
+                },
+                {
+                    "ID": "95",
+                    "typeID": "Arrow",
+                    "zOrder": "95",
+                    "w": "17",
+                    "h": "39",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "164",
+                    "y": "938",
+                    "properties": {
+                        "color": "2848996",
+                        "p0": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.6404494382022472,
+                            "y": 0.10861423220973786
+                        },
+                        "p2": {
+                            "x": 15,
+                            "y": 37
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "96",
+                    "typeID": "TextInput",
+                    "zOrder": "96",
+                    "w": "96",
+                    "measuredW": "87",
+                    "measuredH": "32",
+                    "x": "94",
+                    "y": "900",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "Windows"
+                    }
+                },
+                {
+                    "ID": "97",
+                    "typeID": "TextInput",
+                    "zOrder": "97",
+                    "w": "92",
+                    "measuredW": "57",
+                    "measuredH": "32",
+                    "x": "100",
+                    "y": "1062",
+                    "properties": {
+                        "align": "center",
+                        "color": "16770457",
+                        "size": "18",
+                        "text": "Linux"
+                    }
+                },
+                {
+                    "ID": "98",
+                    "typeID": "TextInput",
+                    "zOrder": "98",
+                    "w": "71",
+                    "measuredW": "49",
+                    "measuredH": "32",
+                    "x": "237",
+                    "y": "1046",
+                    "properties": {
+                        "align": "center",
+                        "color": "15658734",
+                        "size": "18",
+                        "text": "Mac"
+                    }
+                },
+                {
+                    "ID": "99",
+                    "typeID": "Arrow",
+                    "zOrder": "99",
+                    "w": "19",
+                    "h": "44",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "144",
+                    "y": "1014",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 0,
+                            "y": 43
+                        },
+                        "p1": {
+                            "x": 0.4877534895970503,
+                            "y": 0.08691071898867526
+                        },
+                        "p2": {
+                            "x": 18,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "100",
+                    "typeID": "Arrow",
+                    "zOrder": "100",
+                    "w": "32",
+                    "h": "46",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "201",
+                    "y": "1016",
+                    "properties": {
+                        "color": "2848996",
+                        "p0": {
+                            "x": 31,
+                            "y": 45
+                        },
+                        "p1": {
+                            "x": 0.6363636363636365,
+                            "y": 0.3181818181818183
+                        },
+                        "p2": {
+                            "x": 9,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "101",
+                    "typeID": "Arrow",
+                    "zOrder": "101",
+                    "w": "29",
+                    "h": "32",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "429",
+                    "y": "1035",
+                    "properties": {
+                        "color": "2848996",
+                        "p0": {
+                            "x": 28,
+                            "y": 31
+                        },
+                        "p1": {
+                            "x": 0.5713467048710599,
+                            "y": 0.09684813753581661
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "102",
+                    "typeID": "TextInput",
+                    "zOrder": "102",
+                    "w": "172",
+                    "measuredW": "146",
+                    "measuredH": "32",
+                    "x": "462",
+                    "y": "1053",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "컴퓨터 그래픽스"
+                    }
+                },
+                {
+                    "ID": "103",
+                    "typeID": "Arrow",
+                    "zOrder": "103",
+                    "w": "64",
+                    "h": "97",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "304",
+                    "y": "1036",
+                    "properties": {
+                        "color": "2848996",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 0,
+                            "y": 96
+                        },
+                        "p1": {
+                            "x": 0.45880853347645256,
+                            "y": -0.2547296390715149
+                        },
+                        "p2": {
+                            "x": 61,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "104",
+                    "typeID": "TextInput",
+                    "zOrder": "104",
+                    "w": "204",
+                    "measuredW": "118",
+                    "measuredH": "32",
+                    "x": "94",
+                    "y": "1116",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "인공지능(AI)"
+                    }
+                },
+                {
+                    "ID": "105",
+                    "typeID": "Arrow",
+                    "zOrder": "105",
+                    "w": "71",
+                    "h": "152",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "319",
+                    "y": "1034",
+                    "properties": {
+                        "color": "2848996",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 0,
+                            "y": 151
+                        },
+                        "p1": {
+                            "x": 0.45465911853575514,
+                            "y": -0.18421144028062364
+                        },
+                        "p2": {
+                            "x": 68,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "106",
+                    "typeID": "TextInput",
+                    "zOrder": "106",
+                    "w": "212",
+                    "measuredW": "164",
+                    "measuredH": "32",
+                    "x": "100",
+                    "y": "1170",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "데이터베이스 관리"
+                    }
+                },
+                {
+                    "ID": "107",
+                    "typeID": "Arrow",
+                    "zOrder": "107",
+                    "w": "40",
+                    "h": "92",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "409",
+                    "y": "1035",
+                    "properties": {
+                        "color": "2848996",
+                        "p0": {
+                            "x": 39,
+                            "y": 91
+                        },
+                        "p1": {
+                            "x": 0.39655172413793105,
+                            "y": 0.10477453580901856
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "108",
+                    "typeID": "TextInput",
+                    "zOrder": "108",
+                    "w": "195",
+                    "measuredW": "164",
+                    "measuredH": "32",
+                    "x": "454",
+                    "y": "1116",
+                    "properties": {
+                        "align": "center",
+                        "color": "15658734",
+                        "size": "18",
+                        "text": "시스템 프로그래밍"
+                    }
+                },
+                {
+                    "ID": "109",
+                    "typeID": "Arrow",
+                    "zOrder": "109",
+                    "w": "36",
+                    "h": "222",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "607",
+                    "y": "1336",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 15,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.5205664372683961,
+                            "y": -0.10749073583906829
+                        },
+                        "p2": {
+                            "x": 35,
+                            "y": 221
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "110",
+                    "typeID": "Icon",
+                    "zOrder": "110",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "603",
+                    "y": "1295",
+                    "properties": {
+                        "color": "2848996",
+                        "icon": {
+                            "ID": "circle",
+                            "size": "large"
+                        }
+                    }
+                },
+                {
+                    "ID": "111",
+                    "typeID": "TextInput",
+                    "zOrder": "111",
+                    "w": "153",
+                    "measuredW": "128",
+                    "measuredH": "32",
+                    "x": "828",
+                    "y": "1202",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "그래픽스 이론"
+                    }
+                },
+                {
+                    "ID": "112",
+                    "typeID": "TextInput",
+                    "zOrder": "112",
+                    "w": "124",
+                    "measuredW": "74",
+                    "measuredH": "32",
+                    "x": "304",
+                    "y": "1327",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "게임 AI"
+                    }
+                },
+                {
+                    "ID": "113",
+                    "typeID": "Label",
+                    "zOrder": "113",
+                    "w": "184",
+                    "measuredW": "173",
+                    "measuredH": "26",
+                    "x": "547",
+                    "y": "1565",
+                    "properties": {
+                        "bold": "true",
+                        "size": "18",
+                        "text": "실력을 갈고닦으세요!"
+                    }
+                },
+                {
+                    "ID": "114",
+                    "typeID": "Arrow",
+                    "zOrder": "114",
+                    "w": "62",
+                    "h": "311",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "657",
+                    "y": "1601",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 11,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.5022377085864075,
+                            "y": 0.18007160667476507
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 310
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "115",
+                    "typeID": "Icon",
+                    "zOrder": "115",
+                    "measuredW": "48",
+                    "measuredH": "48",
+                    "x": "690",
+                    "y": "1691",
+                    "properties": {
+                        "color": "2848996",
+                        "icon": {
+                            "ID": "circle",
+                            "size": "large"
+                        }
+                    }
+                },
+                {
+                    "ID": "116",
+                    "typeID": "Arrow",
+                    "zOrder": "116",
+                    "w": "192",
+                    "h": "27",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "433",
+                    "y": "1320",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 191,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.4523527192367811,
+                            "y": 0.055974774969007705
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 25
+                        }
+                    }
+                },
+                {
+                    "ID": "117",
+                    "typeID": "Arrow",
+                    "zOrder": "117",
+                    "w": "75",
+                    "h": "121",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "376",
+                    "y": "1201",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 0,
+                            "y": 120
+                        },
+                        "p1": {
+                            "x": 0.6105899438709425,
+                            "y": 0.2046159280920046
+                        },
+                        "p2": {
+                            "x": 74,
+                            "y": 0
+                        }
+                    }
+                },
+                {
+                    "ID": "118",
+                    "typeID": "TextInput",
+                    "zOrder": "118",
+                    "w": "125",
+                    "measuredW": "68",
+                    "measuredH": "32",
+                    "x": "455",
+                    "y": "1184",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "움직임"
+                    }
+                },
+                {
+                    "ID": "119",
+                    "typeID": "Arrow",
+                    "zOrder": "119",
+                    "w": "97",
+                    "h": "92",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "399",
+                    "y": "1231",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 0,
+                            "y": 91
+                        },
+                        "p1": {
+                            "x": 0.7466666666666667,
+                            "y": 0.315
+                        },
+                        "p2": {
+                            "x": 96,
+                            "y": 19
+                        }
+                    }
+                },
+                {
+                    "ID": "120",
+                    "typeID": "TextInput",
+                    "zOrder": "120",
+                    "w": "125",
+                    "measuredW": "68",
+                    "measuredH": "32",
+                    "x": "462",
+                    "y": "1255",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "길찾기"
+                    }
+                },
+                {
+                    "ID": "121",
+                    "typeID": "Arrow",
+                    "zOrder": "121",
+                    "w": "81",
+                    "h": "98",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "273",
+                    "y": "1225",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 78,
+                            "y": 97
+                        },
+                        "p1": {
+                            "x": 0.5753084617069429,
+                            "y": -0.3789150908958166
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 6
+                        }
+                    }
+                },
+                {
+                    "ID": "122",
+                    "typeID": "TextInput",
+                    "zOrder": "122",
+                    "w": "169",
+                    "measuredW": "86",
+                    "measuredH": "32",
+                    "x": "97",
+                    "y": "1215",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "의사결정"
+                    }
+                },
+                {
+                    "ID": "123",
+                    "typeID": "TextInput",
+                    "zOrder": "123",
+                    "w": "230",
+                    "measuredW": "136",
+                    "measuredH": "32",
+                    "x": "74",
+                    "y": "1261",
+                    "properties": {
+                        "align": "center",
+                        "color": "16770457",
+                        "size": "18",
+                        "text": "전술/전략적 AI"
+                    }
+                },
+                {
+                    "ID": "124",
+                    "typeID": "Arrow",
+                    "zOrder": "124",
+                    "w": "101",
+                    "h": "48",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "199",
+                    "y": "1298",
+                    "properties": {
+                        "color": "2848996",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 100,
+                            "y": 47
+                        },
+                        "p1": {
+                            "x": 0.38971250716684397,
+                            "y": 0.04316487836841668
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    }
+                },
+                {
+                    "ID": "125",
+                    "typeID": "TextInput",
+                    "zOrder": "125",
+                    "w": "99",
+                    "measuredW": "50",
+                    "measuredH": "32",
+                    "x": "100",
+                    "y": "1343",
+                    "properties": {
+                        "align": "center",
+                        "color": "15658734",
+                        "size": "18",
+                        "text": "학습"
+                    }
+                },
+                {
+                    "ID": "126",
+                    "typeID": "TextInput",
+                    "zOrder": "126",
+                    "w": "137",
+                    "measuredW": "86",
+                    "measuredH": "32",
+                    "x": "121",
+                    "y": "1404",
+                    "properties": {
+                        "align": "center",
+                        "color": "16770457",
+                        "size": "18",
+                        "text": "보드게임"
+                    }
+                },
+                {
+                    "ID": "127",
+                    "typeID": "TextInput",
+                    "zOrder": "127",
+                    "w": "214",
+                    "measuredW": "92",
+                    "measuredH": "32",
+                    "x": "161",
+                    "y": "1469",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "실행 관리"
+                    }
+                },
+                {
+                    "ID": "128",
+                    "typeID": "Arrow",
+                    "zOrder": "128",
+                    "w": "121",
+                    "h": "15",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "204",
+                    "y": "1360",
+                    "properties": {
+                        "color": "2848996",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 120,
+                            "y": 6
+                        },
+                        "p1": {
+                            "x": 0.3738501971090671,
+                            "y": 0.08650897941305302
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 0
+                        }
+                    }
+                },
+                {
+                    "ID": "129",
+                    "typeID": "Arrow",
+                    "zOrder": "129",
+                    "w": "71",
+                    "h": "55",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "268",
+                    "y": "1367",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 70,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.49467421552634105,
+                            "y": 0.13712695518664234
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 54
+                        }
+                    }
+                },
+                {
+                    "ID": "130",
+                    "typeID": "TextInput",
+                    "zOrder": "130",
+                    "w": "193",
+                    "measuredW": "110",
+                    "measuredH": "32",
+                    "x": "325",
+                    "y": "1517",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "이벤트 관리"
+                    }
+                },
+                {
+                    "ID": "131",
+                    "typeID": "TextInput",
+                    "zOrder": "131",
+                    "w": "157",
+                    "measuredW": "110",
+                    "measuredH": "32",
+                    "x": "431",
+                    "y": "1422",
+                    "properties": {
+                        "align": "center",
+                        "color": "15658734",
+                        "size": "18",
+                        "text": "컨텐츠 생성"
+                    }
+                },
+                {
+                    "ID": "132",
+                    "typeID": "Arrow",
+                    "zOrder": "132",
+                    "w": "41",
+                    "h": "99",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "317",
+                    "y": "1367",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 40,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.4882452510814369,
+                            "y": 0.10400601843144629
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 98
+                        }
+                    }
+                },
+                {
+                    "ID": "133",
+                    "typeID": "Arrow",
+                    "zOrder": "133",
+                    "w": "36",
+                    "h": "145",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "375",
+                    "y": "1366",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.4942755625740232,
+                            "y": -0.01283063560994868
+                        },
+                        "p2": {
+                            "x": 35,
+                            "y": 144
+                        }
+                    }
+                },
+                {
+                    "ID": "134",
+                    "typeID": "Arrow",
+                    "zOrder": "134",
+                    "w": "110",
+                    "h": "51",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "400",
+                    "y": "1366",
+                    "properties": {
+                        "color": "2848996",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.5761074458058433,
+                            "y": 0.08906691800188495
+                        },
+                        "p2": {
+                            "x": 109,
+                            "y": 50
+                        }
+                    }
+                },
+                {
+                    "ID": "135",
+                    "typeID": "Arrow",
+                    "zOrder": "135",
+                    "w": "185",
+                    "h": "96",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "638",
+                    "y": "1213",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "direction": "bottom",
+                        "leftArrow": "false",
+                        "p0": {
+                            "x": 0,
+                            "y": 95
+                        },
+                        "p1": {
+                            "x": 0.5526227340966636,
+                            "y": 0.14936476282238006
+                        },
+                        "p2": {
+                            "x": 184,
+                            "y": 3
+                        }
+                    }
+                },
+                {
+                    "ID": "136",
+                    "typeID": "TextInput",
+                    "zOrder": "136",
+                    "w": "179",
+                    "measuredW": "164",
+                    "measuredH": "32",
+                    "x": "731",
+                    "y": "1110",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "렌더링 파이프라인"
+                    }
+                },
+                {
+                    "ID": "137",
+                    "typeID": "TextInput",
+                    "zOrder": "137",
+                    "w": "97",
+                    "measuredW": "78",
+                    "measuredH": "32",
+                    "x": "1080",
+                    "y": "1119",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "셰이딩?"
+                    }
+                },
+                {
+                    "ID": "138",
+                    "typeID": "TextInput",
+                    "zOrder": "138",
+                    "w": "116",
+                    "measuredW": "50",
+                    "measuredH": "32",
+                    "x": "1080",
+                    "y": "1078",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "변환"
+                    }
+                },
+                {
+                    "ID": "139",
+                    "typeID": "TextInput",
+                    "zOrder": "139",
+                    "w": "172",
+                    "measuredW": "110",
+                    "measuredH": "32",
+                    "x": "1080",
+                    "y": "1159",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "시각적 외양"
+                    }
+                },
+                {
+                    "ID": "140",
+                    "typeID": "TextInput",
+                    "zOrder": "140",
+                    "w": "105",
+                    "measuredW": "86",
+                    "measuredH": "32",
+                    "x": "1080",
+                    "y": "1198",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "텍스처링"
+                    }
+                },
+                {
+                    "ID": "141",
+                    "typeID": "TextInput",
+                    "zOrder": "141",
+                    "w": "293",
+                    "measuredW": "136",
+                    "measuredH": "32",
+                    "x": "1080",
+                    "y": "1237",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "공간/환경 조명"
+                    }
+                },
+                {
+                    "ID": "142",
+                    "typeID": "TextInput",
+                    "zOrder": "142",
+                    "w": "177",
+                    "measuredW": "92",
+                    "measuredH": "32",
+                    "x": "1080",
+                    "y": "1276",
+                    "properties": {
+                        "align": "center",
+                        "color": "15658734",
+                        "size": "18",
+                        "text": "전역 조명"
+                    }
+                },
+                {
+                    "ID": "143",
+                    "typeID": "TextInput",
+                    "zOrder": "143",
+                    "w": "202",
+                    "measuredW": "151",
+                    "measuredH": "32",
+                    "x": "1080",
+                    "y": "1316",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "이미지 기반 효과"
+                    }
+                },
+                {
+                    "ID": "144",
+                    "typeID": "TextInput",
+                    "zOrder": "144",
+                    "w": "269",
+                    "measuredW": "146",
+                    "measuredH": "32",
+                    "x": "1080",
+                    "y": "1353",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "비사실적 렌더링"
+                    }
+                },
+                {
+                    "ID": "145",
+                    "typeID": "TextInput",
+                    "zOrder": "145",
+                    "w": "271",
+                    "measuredW": "110",
+                    "measuredH": "32",
+                    "x": "663",
+                    "y": "1333",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "곡선과 곡면"
+                    }
+                },
+                {
+                    "ID": "146",
+                    "typeID": "TextInput",
+                    "zOrder": "146",
+                    "w": "206",
+                    "measuredW": "128",
+                    "measuredH": "32",
+                    "x": "727",
+                    "y": "1295",
+                    "properties": {
+                        "align": "center",
+                        "color": "15658734",
+                        "size": "18",
+                        "text": "폴리곤 테크닉"
+                    }
+                },
+                {
+                    "ID": "147",
+                    "typeID": "TextInput",
+                    "zOrder": "147",
+                    "w": "217",
+                    "measuredW": "128",
+                    "measuredH": "32",
+                    "x": "716",
+                    "y": "1371",
+                    "properties": {
+                        "align": "center",
+                        "color": "16770457",
+                        "size": "18",
+                        "text": "가속 알고리즘"
+                    }
+                },
+                {
+                    "ID": "148",
+                    "typeID": "TextInput",
+                    "zOrder": "148",
+                    "w": "203",
+                    "measuredW": "164",
+                    "measuredH": "32",
+                    "x": "730",
+                    "y": "1409",
+                    "properties": {
+                        "align": "center",
+                        "color": "16770457",
+                        "size": "18",
+                        "text": "파이프라인 최적화"
+                    }
+                },
+                {
+                    "ID": "149",
+                    "typeID": "TextInput",
+                    "zOrder": "149",
+                    "w": "241",
+                    "measuredW": "133",
+                    "measuredH": "32",
+                    "x": "693",
+                    "y": "1446",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "교차 검사 방법"
+                    }
+                },
+                {
+                    "ID": "150",
+                    "typeID": "TextInput",
+                    "zOrder": "150",
+                    "w": "181",
+                    "measuredW": "92",
+                    "measuredH": "32",
+                    "x": "753",
+                    "y": "1483",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "충돌 감지"
+                    }
+                },
+                {
+                    "ID": "151",
+                    "typeID": "Arrow",
+                    "zOrder": "151",
+                    "w": "71",
+                    "h": "52",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "830",
+                    "y": "1146",
+                    "properties": {
+                        "color": "2848996",
+                        "p0": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.5941874416744434,
+                            "y": 0.047193707505665906
+                        },
+                        "p2": {
+                            "x": 70,
+                            "y": 51
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "152",
+                    "typeID": "Arrow",
+                    "zOrder": "152",
+                    "w": "88",
+                    "h": "129",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "987",
+                    "y": "1092",
+                    "properties": {
+                        "color": "2848996",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 87,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.3969026548672566,
+                            "y": -0.14646017699115044
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 128
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "153",
+                    "typeID": "Arrow",
+                    "zOrder": "153",
+                    "w": "89",
+                    "h": "86",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "987",
+                    "y": "1134",
+                    "properties": {
+                        "color": "2848996",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 88,
+                            "y": 1
+                        },
+                        "p1": {
+                            "x": 0.36628895184135973,
+                            "y": -0.11586402266288953
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 85
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "154",
+                    "typeID": "Arrow",
+                    "zOrder": "154",
+                    "w": "87",
+                    "h": "44",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "987",
+                    "y": "1176",
+                    "properties": {
+                        "color": "2848996",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 86,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.3584569732937686,
+                            "y": -0.05163204747774484
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 43
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "155",
+                    "typeID": "Arrow",
+                    "zOrder": "155",
+                    "w": "87",
+                    "h": "5",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "987",
+                    "y": "1215",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "0",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 86,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.44024125707634515,
+                            "y": 0.009629120152372819
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 4
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "156",
+                    "typeID": "Arrow",
+                    "zOrder": "156",
+                    "w": "88",
+                    "h": "37",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "987",
+                    "y": "1219",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "0",
+                        "p0": {
+                            "x": 87,
+                            "y": 36
+                        },
+                        "p1": {
+                            "x": 0.4402412570763451,
+                            "y": 0.009629120152372847
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "157",
+                    "typeID": "Arrow",
+                    "zOrder": "157",
+                    "w": "87",
+                    "h": "72",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "987",
+                    "y": "1219",
+                    "properties": {
+                        "color": "2848996",
+                        "p0": {
+                            "x": 86,
+                            "y": 71
+                        },
+                        "p1": {
+                            "x": 0.4522736583367471,
+                            "y": 0.07210159770585826
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "158",
+                    "typeID": "Arrow",
+                    "zOrder": "158",
+                    "w": "89",
+                    "h": "114",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "987",
+                    "y": "1219",
+                    "properties": {
+                        "color": "2848996",
+                        "p0": {
+                            "x": 88,
+                            "y": 113
+                        },
+                        "p1": {
+                            "x": 0.4522736583367474,
+                            "y": 0.07210159770585826
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "159",
+                    "typeID": "Arrow",
+                    "zOrder": "159",
+                    "w": "90",
+                    "h": "152",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "987",
+                    "y": "1219",
+                    "properties": {
+                        "color": "2848996",
+                        "p0": {
+                            "x": 88,
+                            "y": 150
+                        },
+                        "p1": {
+                            "x": 0.37165663072398825,
+                            "y": 0.11202912757316905
+                        },
+                        "p2": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "160",
+                    "typeID": "Arrow",
+                    "zOrder": "160",
+                    "w": "25",
+                    "h": "70",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "941",
+                    "y": "1243",
+                    "properties": {
+                        "color": "2848996",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 0,
+                            "y": 69
+                        },
+                        "p1": {
+                            "x": 0.36947094535993075,
+                            "y": -0.2740676496097138
+                        },
+                        "p2": {
+                            "x": 14,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "161",
+                    "typeID": "Arrow",
+                    "zOrder": "161",
+                    "w": "46",
+                    "h": "107",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "939",
+                    "y": "1243",
+                    "properties": {
+                        "color": "2848996",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 0,
+                            "y": 104
+                        },
+                        "p1": {
+                            "x": 0.22574322116955245,
+                            "y": -0.4026461940542306
+                        },
+                        "p2": {
+                            "x": 16,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "162",
+                    "typeID": "Arrow",
+                    "zOrder": "162",
+                    "w": "63",
+                    "h": "148",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "938",
+                    "y": "1243",
+                    "properties": {
+                        "color": "2848996",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 0,
+                            "y": 145
+                        },
+                        "p1": {
+                            "x": 0.2257432211695523,
+                            "y": -0.40264619405423063
+                        },
+                        "p2": {
+                            "x": 17,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "163",
+                    "typeID": "Arrow",
+                    "zOrder": "163",
+                    "w": "78",
+                    "h": "185",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "940",
+                    "y": "1243",
+                    "properties": {
+                        "color": "2848996",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 0,
+                            "y": 183
+                        },
+                        "p1": {
+                            "x": 0.2257432211695523,
+                            "y": -0.4026461940542307
+                        },
+                        "p2": {
+                            "x": 15,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "164",
+                    "typeID": "Arrow",
+                    "zOrder": "164",
+                    "w": "92",
+                    "h": "220",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "940",
+                    "y": "1243",
+                    "properties": {
+                        "color": "2848996",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 0,
+                            "y": 218
+                        },
+                        "p1": {
+                            "x": 0.22574322116955234,
+                            "y": -0.40264619405423085
+                        },
+                        "p2": {
+                            "x": 15,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "165",
+                    "typeID": "Arrow",
+                    "zOrder": "165",
+                    "w": "106",
+                    "h": "256",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "940",
+                    "y": "1243",
+                    "properties": {
+                        "color": "2848996",
+                        "direction": "bottom",
+                        "p0": {
+                            "x": 0,
+                            "y": 254
+                        },
+                        "p1": {
+                            "x": 0.22574322116955223,
+                            "y": -0.40264619405423085
+                        },
+                        "p2": {
+                            "x": 15,
+                            "y": 0
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "166",
+                    "typeID": "TextInput",
+                    "zOrder": "166",
+                    "w": "78",
+                    "measuredW": "63",
+                    "measuredH": "32",
+                    "x": "297",
+                    "y": "636",
+                    "properties": {
+                        "align": "center",
+                        "color": "16776960",
+                        "size": "18",
+                        "text": "Godot"
+                    }
+                },
+                {
+                    "ID": "167",
+                    "typeID": "Arrow",
+                    "zOrder": "167",
+                    "w": "37",
+                    "h": "40",
+                    "measuredW": "150",
+                    "measuredH": "100",
+                    "x": "338",
+                    "y": "675",
+                    "properties": {
+                        "color": "2848996",
+                        "curvature": "-1",
+                        "p0": {
+                            "x": 0,
+                            "y": 0
+                        },
+                        "p1": {
+                            "x": 0.5207667731629393,
+                            "y": -0.019169329073482427
+                        },
+                        "p2": {
+                            "x": 36,
+                            "y": 39
+                        },
+                        "rightArrow": "false"
+                    }
+                },
+                {
+                    "ID": "168",
+                    "typeID": "Label",
+                    "zOrder": "168",
+                    "measuredW": "197",
+                    "measuredH": "25",
+                    "x": "70",
+                    "y": "180",
+                    "properties": {
+                        "bold": "true",
+                        "size": "17",
+                        "text": "1. 고유명사는 원어로 기재"
+                    }
+                },
+                {
+                    "ID": "169",
+                    "typeID": "Label",
+                    "zOrder": "169",
+                    "measuredW": "274",
+                    "measuredH": "25",
+                    "x": "70",
+                    "y": "205",
+                    "properties": {
+                        "bold": "true",
+                        "size": "17",
+                        "text": "2. 일차적으로 영한사전을 통해 번역"
+                    }
+                },
+                {
+                    "ID": "170",
+                    "typeID": "Label",
+                    "zOrder": "170",
+                    "measuredW": "452",
+                    "measuredH": "25",
+                    "x": "70",
+                    "y": "230",
+                    "properties": {
+                        "bold": "true",
+                        "size": "17",
+                        "text": "3. 사전으로 힘들 경우 구글 검색에 많이 걸리는 단어를 선택"
+                    }
+                },
+                {
+                    "ID": "171",
+                    "typeID": "Label",
+                    "zOrder": "171",
+                    "measuredW": "279",
+                    "measuredH": "25",
+                    "x": "70",
+                    "y": "256",
+                    "properties": {
+                        "bold": "true",
+                        "size": "17",
+                        "text": "4. 이마저도 힘들 경우 음차하여 기재"
+                    }
+                },
+                {
+                    "ID": "172",
+                    "typeID": "Label",
+                    "zOrder": "172",
+                    "measuredW": "404",
+                    "measuredH": "25",
+                    "x": "70",
+                    "y": "284",
+                    "properties": {
+                        "bold": "true",
+                        "size": "17",
+                        "text": "5. 번역이 애매할 경우 Pull-request할 때 조언 구하기"
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "name": "New Wireframe 1",
+            "order": 1000000,
+            "parentID": null
+        },
+        "resourceID": "C7EBE59C-4EAB-4964-B46E-9C06AF690981",
+        "mockupH": "1820",
+        "mockupW": "1333",
+        "measuredW": "1373",
+        "measuredH": "2000",
+        "version": "1.0"
+    }
+}
