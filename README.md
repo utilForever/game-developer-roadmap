@@ -14,6 +14,10 @@ Below you find a set of charts demonstrating the paths that you can take and the
 <h3 align="center"><strong>Note to Beginners</strong></h3>
 
 > These roadmaps cover everything that is there to learn for the paths listed below. Don't feel overwhelmed, you don't need to learn it all in the beginning if you are just getting started.
+
+<h3 align="center"><strong>Acknowledgement</strong></h3>
+
+> Thanks to [Lyn Heo](https://github.com/lynheo) for providing the content of server roadmap and [Beomjun Gil](https://github.com/beomjungil) for providing awesome social media preview.
 ***
 
 If you think that these can be improved in any way, please do suggest.
