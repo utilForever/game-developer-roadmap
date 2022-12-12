@@ -1,0 +1,13 @@
+[package]
+name = "gdr-terms"
+version = "0.1.0"
+authors = "Chris Ohk <utilforever@gmail.com>"
+edition = "2021"
+description = "A Simple Command Line Application for Seaching Game Development Terms"
+
+repository = "https://github.com/utilforever/game-developer-roadmap"
+
+readme = "README.md"
+license = "MIT"
+
+[dependencies]
