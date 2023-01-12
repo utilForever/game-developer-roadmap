@@ -22,6 +22,8 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 If you think that these can be improved in any way, please do suggest.
 
+> If you want to see it as a dark theme, click [this](./README%20-%20Dark%20Theme.md).
+
 ## Introduction
 
 ![Game Developr Roadmap Introduction](./img/intro.png)
